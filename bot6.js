@@ -4,7 +4,7 @@ const fs = require('fs');
 const { v4: uuidv4 } = require('uuid');
 
 // Telegram bot token
-const botToken = '6059714191:AAEdPcOsap8DAGzTXTYzpPaiNDdjGpnEPHM';
+const botToken = '<6059714191:AAEdPcOsap8DAGzTXTYzpPaiNDdjGpnEPHM>';
 
 // Create a new instance of TelegramBot
 const bot = new TelegramBot(botToken, { polling: true });
