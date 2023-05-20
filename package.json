@@ -4,7 +4,8 @@
   "description": "sant transportation bot",
   "main": "bot6.js",
   "scripts": {
-    "test": "node bot6.js"
+    "start": "node not6.js",
+    "test": "no test"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,6 @@
     "googleapis": "^118.0.0",
     "node-telegram-bot-api": "^0.61.0",
     "uuid": "^9.0.0"
-  }
+  },
+  "devDependencies": {}
 }
