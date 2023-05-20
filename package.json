@@ -1,0 +1,24 @@
+{
+  "name": "msm2023",
+  "version": "1.0.0",
+  "description": "sant transportation bot",
+  "main": "bot6.js",
+  "scripts": {
+    "test": "node bot6.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patelro/msm2023.git"
+  },
+  "author": "Rohan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patelro/msm2023/issues"
+  },
+  "homepage": "https://github.com/patelro/msm2023#readme",
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "node-telegram-bot-api": "^0.61.0",
+    "uuid": "^9.0.0"
+  }
+}
